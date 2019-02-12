@@ -6,6 +6,8 @@ Unconference.
 Here you can see the [currently proposed sessions](https://github.com/nnf-cbn/2019-unconference/issues),
 and [propose sessions yourself](https://github.com/nnf-cbn/2019-unconference/issues/new/choose).
 
+See [tips for leading a session](session_leading_tips.md) if you want to lead a session.
+
 ## How do unconferences work?
 
 In short, an unconference is an event where the agenda is set by the people who
@@ -56,3 +58,23 @@ you cannot end sessions earlier if it feels like everything has been said alread
 If at any time you feel like you are no longer interested in a session, feel
 free to leave and join another session. You should also feel free to take a
 break if you need one, sometimes the best ideas occur during this "down time".
+
+
+## Tips for attendees
+
+Here are some tips for all attendees of the conference to help make your
+conference experience more useful and enjoyable.
+
+### Go with the flow
+
+This event is designed to help you and the other attendees to talk and
+learn from each other.
+
+### Follow your passion
+
+Go to the sessions you find interesting.
+
+### Take responsibility for your own learing
+
+If you are interested in a topic that you can't find on the agenda,
+you [should propose a session](https://github.com/nnf-cbn/2019-unconference/issues/new/choose).
