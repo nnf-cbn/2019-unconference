@@ -85,11 +85,11 @@ __**Day 1**__
 
 - 08:30 – 09:00 Registration, coffee and light breakfast
 - 09:00 – 09:15 Introduction and presentation of the unconference theme and agenda
-- 09:15 – 10:15 1st Keynote (potentially Mike Croucher on Software Sustainability)
+- 09:15 – 10:15 1st Keynote Carole Goble, [Software Sustainability Institute](https://www.software.ac.uk/)
 - 10:15 – 10:30 Coffee break
 - 10:30 – 12:00 Presentation of topics and meeting room allocation
 - 12:00 – 13:30 Lunch
-- 13:30 – 14:30 Second Keynote (potentially Jennifer Cham on User Interface and Experience Design)
+- 13:30 – 14:30 2nd Keynote by Tim Gardner, CEO at [Riffyn](https://riffyn.com)
 - 14:30 – 14:45 Coffee break
 - 14:45 – 17:15 Beginning of the unconference activities (multiple sessions in parallel), participant-driven 
 - 17:15 – 17:30 Coffee break
