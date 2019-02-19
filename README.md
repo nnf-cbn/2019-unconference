@@ -59,6 +59,9 @@ If at any time you feel like you are no longer interested in a session, feel
 free to leave and join another session. You should also feel free to take a
 break if you need one, sometimes the best ideas occur during this "down time".
 
+### Bonus: The Pac-Man rule
+
+If you are having a discussion in a small group, always leave room for one more person to join. [Be like Pac-Man](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) :wink:
 
 ## Tips for attendees
 
