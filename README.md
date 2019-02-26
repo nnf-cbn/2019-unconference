@@ -88,7 +88,7 @@ __**Day 1**__
 
 - 08:30 – 09:00 Registration, coffee and light breakfast
 - 09:00 – 09:15 Introduction and presentation of the unconference theme and agenda
-- 09:15 – 10:15 1st Keynote Carole Goble, [Software Sustainability Institute](https://www.software.ac.uk/)
+- 09:15 – 10:15 1st Keynote Carole Goble, "Better Software Better Research", [Software Sustainability Institute](https://www.software.ac.uk/)
 - 10:15 – 10:30 Coffee break
 - 10:30 – 12:00 Presentation of topics and meeting room allocation
 - 12:00 – 13:30 Lunch
