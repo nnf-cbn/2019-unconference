@@ -87,29 +87,29 @@ you [should propose a session](https://github.com/nnf-cbn/2019-unconference/issu
 
 __**Day 1**__
 
-- 08:30 – 09:00 Registration, coffee and light breakfast
+- 08:30 – 09:00 Registration, coffee and light breakfast 🥐
 - 09:00 – 09:15 Introduction and presentation of the unconference theme and agenda
 - 09:15 – 10:15 1st Keynote Carole Goble, "Better Software Better Research", [Software Sustainability Institute](https://www.software.ac.uk/)
-- 10:15 – 10:30 Coffee break
+- 10:15 – 10:30 Coffee break ☕
 - 10:30 – 12:00 Presentation of topics and meeting room allocation
-- 12:00 – 13:30 Lunch
+- 12:00 – 13:30 Lunch 🥙
 - 13:30 – 14:30 2nd Keynote by Tim Gardner, CEO at [Riffyn](https://riffyn.com)
-- 14:30 – 14:45 Coffee break
+- 14:30 – 14:45 Coffee break ☕
 - 14:45 – 17:15 Beginning of the unconference activities (multiple sessions in parallel), participant-driven 
-- 17:15 – 17:30 Coffee break
+- 17:15 – 17:30 Coffee break ☕
 - 17:30 – 18:00 Lightning talks presenting the session results; vote on most pressing issue
 - 18:00 – 18:30 Free time
-- 18:30 – 20:00 Dinner 
-- 20:00 – (open ended) Networking
+- 18:30 – 20:00 Dinner 🍝
+- 20:00 – (open ended) Networking 🍸
 
 __**Day 2**__
 
-- 9:00 – 10:00 Breakfast
-- Three activities in parallel (including lunch 12:00–13:00):
-  * 10:00 – 14:00 Focused session on most pressing issue determined on the 1st day
-  * 10:00 – 14:00 Workshop on Docker and how it can be used for reproducible computational workflows
-  * 10:00 – 14:00 2nd workshop (potentially on software licensing)
-- 14:00 – 14:45 Synthesis of previous sessions into 10 “simple” recommendations
-- 14:45 – 15:00 Closing remarks by organizers
+- 8:00 – 09:00 Breakfast (checkout until 9:00 latest) 🥐
+- 9:00 – 09:30 Short recap of Yesterday’s activities plus room organization
+- Two activities in parallel (including coffee ☕ breaks at 10:15 –10:30 and lunch 🥙 at 12:00–13:00):
+  * 09:30 – 14:00 Focused session on most pressing issue determined on the 1st day
+  * 09:30 – 14:00 Workshop on Docker and how it can be used for reproducible computational workflows
+- 14:00 – 14:15 Cake 🍰
+- 14:15 – 15:00 Synthesis of previous sessions into 10 “simple” recommendations
+- 15:00 – 15:15 Closing remarks by organizers
 - 15:15 – 16:30 Preparation of 10 “simple” recommendations outline/draft by the organizers
-
