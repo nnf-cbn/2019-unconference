@@ -37,6 +37,7 @@ learn, and then share the results with all of the NNF centers.
 
 ### Whatever happens is fine
 
+Whatever happens is fine (within the [Code of Conduct](CODE-OF-CONDUCT.md)).
 While the overall goal of the unconference is to create a document with
 recommendations for software sustainability at the NNF centers and beyond,
 individual sessions don't have a required outcome. Sessions might not have
