@@ -78,7 +78,7 @@ learn from each other.
 
 Go to the sessions you find interesting.
 
-### Take responsibility for your own learing
+### Take responsibility for your own learning
 
 If you are interested in a topic that you can't find on the agenda,
 you [should propose a session](https://github.com/nnf-cbn/2019-unconference/issues/new/choose).
