@@ -8,6 +8,10 @@ and [propose sessions yourself](https://github.com/nnf-cbn/2019-unconference/iss
 
 See [tips for leading a session](session_leading_tips.md) if you want to lead a session.
 
+## Meeting room map
+
+![Favrholm map](map.jpg)
+
 ## How do unconferences work?
 
 In short, an unconference is an event where the agenda is set by the people who
