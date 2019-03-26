@@ -8,6 +8,11 @@ and [propose sessions yourself](https://github.com/nnf-cbn/2019-unconference/iss
 
 See [tips for leading a session](session_leading_tips.md) if you want to lead a session.
 
+## Session notes
+
+* [Code review](sessions/code_review.md)
+* [Less sys-admining! More science!](sessions/less_sysadmining_more_science_a_call_for_shared_IT_integration.md)
+
 ## Meeting room map
 
 ![Favrholm map](map.jpg)
